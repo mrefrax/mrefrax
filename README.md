@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrefrax
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML5 & CSS3
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pelo email: efrax515@gmail.com
 
